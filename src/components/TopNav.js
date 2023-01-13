@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const TopNav = () => {
   return (
-    <div className="h-14 border-custom">
+    <div className="top-header h-14 border-custom">
       <header className="flex justify-between justify-between align-center px-7 py-4">
         <ul>
           <li>
