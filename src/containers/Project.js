@@ -10,6 +10,7 @@ const Project = () => {
 
   useEffect(() => {
     getAllProjects();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [searchInput]);
 
   // Get all products api call

@@ -171,3 +171,6 @@ a{
     top: 0;
     z-index: 1;
 }
+.dropdown-menu{
+    transition: .3s all ease;
+}
